@@ -4,7 +4,6 @@ I created a cybersecurity portfolio that highlights the diverse tasks and projec
 
 * Writing code to support cybersecurity functions <br>
 * Utilizing security frameworks and control mechanisms to guide operational practices<br>
-* Employing Security Information and Event Management (SIEM) tools for threat monitoring and analysis<br>
 * Identifying and addressing security incidents through intrusion detection systems<br>
 * Capturing and analyzing network packets to investigate potential threats<br>
 
